@@ -19,7 +19,12 @@ Users can:
 
 ---
 
+## APPLICATIO VIEW
+<img width="196" height="257" alt="image" src="https://github.com/user-attachments/assets/245ef033-d3f9-4925-81bf-c8169e071517" />
+
 ## 🧠 Model Architecture  
+<img width="372" height="340" alt="image" src="https://github.com/user-attachments/assets/8491ac58-4005-4b69-803e-51acfb4e24cc" />
+
 
 ### 1️⃣ Text-Based Disease Prediction  
 
@@ -28,7 +33,9 @@ Users can:
 - Machine Learning models:
   - Logistic Regression  
   - Random Forest  
-  - Support Vector Machine (Final Selected Model)  
+  - Support Vector Machine (Final Selected Model)
+  - <img width="169" height="296" alt="image" src="https://github.com/user-attachments/assets/9e19efdd-7266-4147-b709-0ecea73d0da3" />
+
 
 ✅ **Accuracy Achieved: 97%**
 
@@ -39,9 +46,12 @@ Users can:
 - Transfer Learning using ResNet50  
 - Image preprocessing & augmentation  
 - Fine-tuned classification layers  
-- Softmax output layer  
+- Softmax output layer
+- <img width="135" height="404" alt="image" src="https://github.com/user-attachments/assets/881c7e5e-dee0-494d-916a-841aa1a120f4" />
+
 
 ✅ **Accuracy Achieved: 85%**
+
 
 ---
 
@@ -80,6 +90,8 @@ The GUI integrates both models into a single interface.
 | Image-Based Model | 85% |
 
 ---
+
+
 
 ## 📁 Repository Files
 
