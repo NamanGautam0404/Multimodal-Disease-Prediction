@@ -45,7 +45,8 @@ Users can:
 
 - Transfer Learning using ResNet50  
 - Image preprocessing & augmentation  
-- Fine-tuned classification layers  
+- Fine-tuned classification layers
+- Optimizers ADAMM RMS- PROP 
 - Softmax output layer
 - <img width="135" height="404" alt="image" src="https://github.com/user-attachments/assets/881c7e5e-dee0-494d-916a-841aa1a120f4" />
 
