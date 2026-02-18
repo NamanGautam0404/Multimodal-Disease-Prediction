@@ -1,14 +1,14 @@
-# 🏥 Multimodal Disease Prediction System  
+# Multimodal Disease Prediction System  
 Machine Learning | Computer Vision | NLP  
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 
 This project is a Machine Learning-based system that predicts diseases using two different input modalities:
 
-- 📝 Symptom-Based Prediction (NLP + ML)  
-- 🖼 Image-Based Prediction (Computer Vision + Transfer Learning)  
+-  Symptom-Based Prediction (NLP + ML)  
+-  Image-Based Prediction (Computer Vision + Transfer Learning)  
 
 The system integrates both models into a unified pipeline with a custom-built GUI application for real-time predictions.
 
@@ -22,11 +22,11 @@ Users can:
 
 
 
-## 🧠 Model Architecture  
+## Model Architecture  
 <img width="372" height="340" alt="image" src="https://github.com/user-attachments/assets/8491ac58-4005-4b69-803e-51acfb4e24cc" />
 
 
-### 1️⃣ Text-Based Disease Prediction  
+### Text-Based Disease Prediction  
 
 - Text preprocessing (cleaning, tokenization, stopword removal)  
 - TF-IDF vectorization  
@@ -37,11 +37,11 @@ Users can:
   - <img width="169" height="296" alt="image" src="https://github.com/user-attachments/assets/9e19efdd-7266-4147-b709-0ecea73d0da3" />
 
 
-✅ **Accuracy Achieved: 97%**
+ **Accuracy Achieved: 97%**
 
 ---
 
-### 2️⃣ Image-Based Disease Prediction  
+### Image-Based Disease Prediction  
 
 - Transfer Learning using ResNet50  
 - Image preprocessing & augmentation  
@@ -56,7 +56,7 @@ Users can:
 
 ---
 
-## 🖥 GUI Application  
+## GUI Application  
 
 <img width="196" height="257" alt="image" src="https://github.com/user-attachments/assets/245ef033-d3f9-4925-81bf-c8169e071517" />
 
@@ -72,7 +72,7 @@ The GUI integrates both models into a single interface.
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 - Python  
 - Scikit-learn  
@@ -85,7 +85,7 @@ The GUI integrates both models into a single interface.
 
 ---
 
-## 📊 Results  
+## Results  
 
 | Model Type | Accuracy |
 |------------|----------|
@@ -96,7 +96,7 @@ The GUI integrates both models into a single interface.
 
 
 
-## 📁 Repository Files
+## Repository Files
 
 This repository contains:
 
