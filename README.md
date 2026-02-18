@@ -19,8 +19,8 @@ Users can:
 
 ---
 
-## APPLICATIO VIEW
-<img width="196" height="257" alt="image" src="https://github.com/user-attachments/assets/245ef033-d3f9-4925-81bf-c8169e071517" />
+
+
 
 ## 🧠 Model Architecture  
 <img width="372" height="340" alt="image" src="https://github.com/user-attachments/assets/8491ac58-4005-4b69-803e-51acfb4e24cc" />
@@ -56,6 +56,8 @@ Users can:
 ---
 
 ## 🖥 GUI Application  
+
+<img width="196" height="257" alt="image" src="https://github.com/user-attachments/assets/245ef033-d3f9-4925-81bf-c8169e071517" />
 
 A custom Python-based GUI was developed to:
 
